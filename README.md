@@ -49,3 +49,11 @@ Sie ist für die Git-Übungsaufgabe gedacht, in der ein `dev`-Branch erstellt,
   ```
 
 Viel Erfolg!
+
+
+# Anderungsprotokoll
+
+## 22092026
+
+- Anpassungen index Personalien, Änderung Profilfoto in Asset library
+- init Änderungsprotokoll
